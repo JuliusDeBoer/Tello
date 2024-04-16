@@ -1,4 +1,5 @@
 #!/bin/python3
+import time
 from djitellopy import Tello
 
 def main():
@@ -6,10 +7,9 @@ def main():
 
     tello.connect()
     tello.takeoff()
-
-    tello.move_left(100)
-    tello.rotate_counter_clockwise(90)
-    tello.move_forward(100)
+    time.sleep(2)
+    tello.rotate_clockwise(225)
+    tello.flip_forward()
 
     tello.land()
 
