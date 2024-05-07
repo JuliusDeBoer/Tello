@@ -37,3 +37,6 @@ Pls read more here:
 Our delivery vehicles (pls no check for stolen ):  )
 
 ![waggies](https://github.com/JuliusDeBoer/Tello/assets/131257976/1dbf120a-d6af-4b40-abcd-d76ea732f348)
+
+We are real war vets so please be nice this was me in the war:
+![cat thousand yard stare](https://github.com/JuliusDeBoer/Tello/assets/131258264/77cd4cd7-8d2e-4b40-aa6e-6c30e6809145)
