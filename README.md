@@ -2,6 +2,8 @@ Hello this project is meant to
 ![Vroem Vroem SKRRRRTTTT](https://cdn.discordapp.com/attachments/1088106503044603904/1229698022120751115/eXKMrxr_c-1hk5URkicNS9QhDK8qYFw6qaGxMtuqaT0.webp?ex=663b2c87&is=6639db07&hm=1c0bf7eb037485e1b03f1a1dc10e880e9054e647f2a72ec56faf02bceffd2f11&)
 
 Our base of operations (sekret)
+
+
 ![jamesmay](https://github.com/JuliusDeBoer/Tello/assets/131257976/7224c333-0ff5-482f-964c-d9b6c742d2f5)
 
 
