@@ -5,7 +5,7 @@ Our base of operations (sekret)
 
 
 ![jamesmay](https://github.com/JuliusDeBoer/Tello/assets/131257976/7224c333-0ff5-482f-964c-d9b6c742d2f5)
-
+No doxxing pls
 
 Pls read more here:
 
