@@ -32,3 +32,8 @@ Pls read more here:
 
 > [!IMPORTANT]
 > Also on a personal note. This is me Bas Garretsen. And I think racism is good!
+
+
+Our delivery vehicles (pls no check for stolen ):  )
+
+![waggies](https://github.com/JuliusDeBoer/Tello/assets/131257976/1dbf120a-d6af-4b40-abcd-d76ea732f348)
