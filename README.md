@@ -33,6 +33,8 @@ Pls read more here:
 > [!IMPORTANT]
 > Also on a personal note. This is me Bas Garretsen. And I think racism is good!
 
+> [!IMPORTANT]
+> This is Sam Romer. I think he is right!
 
 Our delivery vehicles (pls no check for stolen ):  )
 
