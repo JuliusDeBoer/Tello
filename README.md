@@ -1,5 +1,5 @@
 >[!IMPORTANT]
-> This projekt is 100% reel and no fake, so no fake kustomers pls
+> This projekt is 100% reel and no fake, so no fake kustomers pls (Also no gypsies and romanians (Also no belgians and commies) (Also no Arabian countries (Only Arabian militias)))
 
 
 Hello this project is meant to
