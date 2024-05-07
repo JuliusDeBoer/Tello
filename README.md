@@ -1,3 +1,2 @@
-u gae
-
-(I know...)
+step 1: get good better hardware
+step 2: payload
