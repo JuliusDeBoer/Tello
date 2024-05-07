@@ -1,17 +1,18 @@
-step 1: get good better hardware
+步骤 1：获得更好的硬件
 
-step 2: payload
+步骤 2：有效载荷
 
-step 3: export to Gaza
+步骤 3：出口到加沙
+
 
 ![Naamloos](https://github.com/JuliusDeBoer/Tello/assets/131257976/7af90169-6f44-4fa4-970a-6d786f570e5e)  ![Naamloos](https://github.com/JuliusDeBoer/Tello/assets/131257976/e7c3eb8d-8c40-436d-bbd2-3eee2bf2b055)
 
 
-I do need capital. And votes. Wanna know why? "I have a dream." That one day, every person in this nation will control their OWN destiny. A land of the TRULY free, dammit. A nation of ACTION, not words. Ruled by STRENGTH, not committee. Where the law changes to suit the individual, not the other way around. Where power and justice are back where they belong: in the hands of the people! Where every man is free to think -- to act -- for himself! Fuck all these limp-dick lawyers and chicken-shit bureaucrats. Fuck this 24/7 Internet spew of trivia and celebrity bullshit. Fuck "American pride". Fuck the media! Fuck all of it! America is diseased. Rotten to the core. There's no saving it -- we need to pull it out by the roots. WIpe the slate clean. BURN IT DOWN! And from the ashes, a new America will be born. Evolved, but untamed! The weak will be purged, and the strongest will thrive -- free to live as they see fit, they will make America GREAT AGAIN!
+我确实需要资金。还有选票 想知道为什么吗？"我有一个梦想" 有一天，这个国家的每一个人 都能掌握自己的命运 一个真正自由的国度，妈的 一个行动的国家，而不是空谈的国家。由力量而非委员会统治。法律因人而异，而不是相反。权力和正义重新回到人民手中！每个人都可以自由地为自己思考和行动！去他妈的这些软蛋律师和胆小官僚。去他妈的全天候的网络琐事和名人屁话。去他妈的 "美国骄傲" 去他妈的媒体 都去他妈的 美国病了 烂透了。没救了，我们得连根拔起。彻底清除。烧掉它 一个崭新的美国将从灰烬中诞生 不断进化，但桀骜不驯 弱者将被清除，强者将茁壮成长 -- 他们可以自由自在地生活，他们将让美国再次伟大！
 
-What the hell are you talking about?
+你到底在说什么？
 
-You still don't get it. I'm using war as a business to get elected... so I can end war as a business! In my new America, people will die and kill for what they BELIEVE! Not for money, not for oil! Not for what they're told is right. Every man will be free to fight his own wars!
+你还是不明白 我把战争当作一项事业来经营，以便当选......这样我就能结束战争这项事业！在我的新美国，人们将为信仰而死，为信仰而杀 不是为了钱，不是为了石油 不是为了别人告诉他们的正义 每个人都可以自由地打自己的仗
 
 
-I have a dream. That one day every person in this nation will control their own destiny. A nation of the truly free, dammit. A nation of action, not words, ruled by strength, not committee! Where the law changes to suit the individual, not the other way around. Where power and justice are back where they belong: in the hands of the people! Where every man is free to think - to act - for himself! Fuck all these limp-dick lawyers and chickenshit bureaucrats. Fuck this 24-hour Internet spew of trivia and celebrity bullshit! Fuck American pride! Fuck the media! FUCK ALL OF IT! America is diseased. Rotten to the core. There's no saving it - we need to pull it out by the roots. Wipe the slate clean. BURN IT DOWN! And from the ashes, a new America will be born. Evolved, but untamed! The weak will be purged and the strongest will thrive - free to live as they see fit, they'll make America great again!... In my new America, people will die and kill for what they BELIEVE! Not for money. not for oil! Not for what they're told is right. Every man will be free to fight his own wars!
+我有一个梦想。有一天，这个国家的每个人都能掌握自己的命运。一个真正自由的国家，妈的。一个行动的国家，而不是空谈的国家，一个由力量而不是委员会统治的国家！法律因人而异，而不是相反。在这里，权力和正义重新回到属于它们的地方：人民的手中！在这里，每个人都可以自由地为自己思考和行动！去他妈的这些软蛋律师和胆小官僚。去他妈的24小时不间断的网络琐事和名人屁话！去他妈的美国骄傲 去他妈的媒体 都去他妈的 美国病了 烂透了 没救了，我们必须连根拔起。把它擦得干干净净。烧掉它 一个崭新的美国将从灰烬中诞生。不断进化，但桀骜不驯！弱者将被清除，强者将茁壮成长--自由自在地生活，他们将让美国再次伟大！... 在我的新美国，人们将为自己的信仰而死，为信仰而杀！不为金钱，不为石油 不是为了别人告诉他们的正义 每个人都可以自由地打自己的仗
