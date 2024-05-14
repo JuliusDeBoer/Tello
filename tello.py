@@ -1,8 +1,13 @@
 #!/bin/python3
 import time
 from djitellopy import Tello
+from typing import Union
+from fastapi import FastAPI
 
-def main():
+app = FastAPI()
+
+@app.get("/")
+def read_root():
     tello = Tello()
 
     tello.connect()
@@ -12,6 +17,5 @@ def main():
     tello.flip_forward()
 
     tello.land()
-
-if __name__ == "__main__":
-    main()
+    print("Ran the code!")
+    return "Organs have been traded!"
