@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+}
+
+header{
+    width: auto;
+    height: auto;
+    background-color: #ecff21;
+}
+
+header img{
+    height: 75px;
+    width: 125px;
+}
+
+h1{
+    display: flex;
+    font-weight: bold;
+    font-size: 40px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+h3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: gray;
+}
+
+.strikeThrough{
+    text-decoration: line-through;
+}
+
+button{
+    margin-left: 15px;
+    color: yellow;
+    background-color: red;
+    border: 2px solid black;
+    border-radius: 5%;
+    font-weight: bold;
+}
+button:hover{
+    background-color: darkred;
+}
+
+.drugs{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+p{
+    padding-top: 10px;
+}
