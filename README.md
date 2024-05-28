@@ -41,7 +41,7 @@ Pls read more here:
 > [!IMPORTANT]
 > This is Sam Romer. I think he is right!
 
-Our delivery vehicles (pls no check for stolen ):  )
+Our delivery vehicles (pls no check for stolen ):  (Only middle one is functional rn))
 
 ![waggies](https://github.com/JuliusDeBoer/Tello/assets/131257976/1dbf120a-d6af-4b40-abcd-d76ea732f348)
 
